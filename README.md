@@ -1,7 +1,7 @@
-cat <<EOL > README.md
+
 # Coffee Machine Virtual Interface
 
-A virtual coffee machine interface using hand gestures, developed with Python, OpenCV, and MediaPipe. Users can select coffee type, sugar level, and cup size through a seamless computer vision interface.
+A virtual coffee machine interface using hand gestures, developed with Python, OpenCV, and MediaPipe. Users can select coffee type, sugar level, and cup size through a seamless computer vision interface. You can also check the project output by unziping the output.zip folder.
 
 ## Features
 
@@ -22,7 +22,7 @@ A virtual coffee machine interface using hand gestures, developed with Python, O
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/your-username/coffee-machine-virtual-interface.git
+   git clone https://github.com/hamasli/coffee-machine-virtual-interface-using-computer-vision.git
    cd coffee-machine-virtual-interface
    \`\`\`
 
@@ -46,5 +46,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact [hamasaliraja@gmail.com]
-EOL
+For any inquiries, please contact [hamasaliraja@gmail.com].
+
+This project is licensed under the MIT License.
